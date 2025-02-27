@@ -1,6 +1,6 @@
 # TasDevilAnnualBreedingSuccess
 
-All data required to reproduce analyses for manuscript entitled "Effects of a transmissible cancer on life-history traits in Tasmanian devils". Contains the following datasets:
+All data and code required to reproduce analyses for manuscript entitled "Effects of a transmissible cancer on life-history traits in Tasmanian devils". Contains the following datasets:
 
 "phenotypicdata_females.csv"; 372 observations used for analyses of phenotypic relationships between age at breeding, body size and year of capture
 "geneticdata_females.csv"; 126 observations used for inbreeding depression analyses

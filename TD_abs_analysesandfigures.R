@@ -6,7 +6,6 @@ library(brms)
 library(broom)
 library(tidyverse)
 library(nadiv)
-library(QGglmm)
 library(tidybayes)
 library(data.table)
 

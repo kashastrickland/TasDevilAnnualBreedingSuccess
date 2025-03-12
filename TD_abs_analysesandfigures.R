@@ -1,7 +1,5 @@
 ########Inbreeding depression and Va of LH and disease
 library(dplyr)
-library(ggplot2)
-library(wesanderson)
 library(brms)
 library(broom)
 library(tidyverse)
